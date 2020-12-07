@@ -6,7 +6,6 @@ To be a senior, a member must be at least `55` years old and have a handicap gre
 Input
 Input will consist of a list of lists containing two items each. Each list contains information for a single potential member. Information consists of an integer for the person's age and an integer for the person's handicap.
 
-Note for F#: The input will be of (int list list) which is a List<List>
 
 # Example Input
 ```
